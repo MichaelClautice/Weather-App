@@ -1,5 +1,5 @@
 # Weather-App
-Michaael Clautice's Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
+Michael Clautice's Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
 
 # Simple Weather App Tutorial
 
