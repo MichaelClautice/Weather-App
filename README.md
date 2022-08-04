@@ -1,7 +1,7 @@
 # Weather-App
 Michael Clautice's Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
 
-I AM NOW SWITCHING TO ANOTHER TUTORIAL BECAUSE IT USES REACT:
+I AM NOW SWITCHING TO ANOTHER TUTORIAL BECAUSE IT USES REACT:<br>
 Build A React JS Weather App - OpenWeatherMap API - Tutorial
 https://youtu.be/UjeXpct3p7M
 
